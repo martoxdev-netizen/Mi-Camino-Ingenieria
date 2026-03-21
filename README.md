@@ -1,6 +1,6 @@
 # Mi-Camino-Ingenieria
 "Bitácora de mis estudios en la UST y proyectos en mi PC Ryzen 5
-# Mi Camino en Ingeniería Civil Informática 🚀
+# Mi Camino en Ingeniería Civil Informática y sistemas 🚀
 Este es mi portafolio profesional donde documentaré mis avances.
 
 ### Mi Setup actual:
